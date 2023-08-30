@@ -17,6 +17,11 @@ This is a Simple Calculator app developed using Android Studio and Java programm
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
+## Technologies Used
+
+- Programming Language: Java
+- Android SDK
+
 ## Installation
 
 1. Clone the repository to your local machine using `git clone https://github.com/Kushil7145/OIBSIP_Task2.git`
